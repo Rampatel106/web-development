@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Kapil_django/Kapil_django"
+		}
+	],
+	"settings": {
+		"liveCoder.settings.port": 5501
+	}
+}
